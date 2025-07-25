@@ -34,9 +34,9 @@ const Equipo = () => {
             rotationInterval={2000}
           />
         </div>
-            <Link to="/formulario">
+            <a href='https://forms.gle/BF6P9heuG7nKTbtJ8'>
             <button className='btnUnirme'>UNIRME</button>
-            </Link>
+            </a>
             
         </div>
 
