@@ -5,6 +5,8 @@ import QueEs from './componentes/QueEs'
 import Objetivos from './componentes/Objetivos'
 import Proyectos from './componentes/Proyectos'
 import Equipo from './componentes/Equipo'
+import Grupo from './componentes/Grupo';
+import Impacto from './componentes/Impacto';
 
 
 const Inicio = () => {
@@ -13,6 +15,8 @@ const Inicio = () => {
         <Banner />
         <QueEs />
         <Objetivos />
+        <Impacto />
+        <Grupo />
         <Proyectos />
         <Equipo />
     </div>
